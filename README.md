@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 <h2> 🤳 Connect with me:</h2>
-<p> You can reach out to me on Linkedin: "www.linkedin.com/in/ricardo-duran-cuesta-42782a269" </p>
+<p> You can reach out to me on Linkedin: www.linkedin.com/in/ricardo-duran-cuesta-42782a269 </p>
  <p> 📫 <a href= mailto: "Ricardoaduran@outlook.com"> Ricardoaduran@outlook.com </a> </p>
  <br>
 <p> 

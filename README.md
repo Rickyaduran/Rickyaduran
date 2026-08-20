@@ -6,11 +6,11 @@
  <p> 📫 <a href= mailto: "Ricardoaduran@outlook.com"> Ricardoaduran@outlook.com </a> </p>
  <br>
 <p> 
-- 🔭 I’m currently working on:
+🔭 I’m currently working on:
 <br>
   - Security + 
 <br>
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 <br>
   - Powershell
 <br>

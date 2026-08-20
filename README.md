@@ -5,7 +5,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <p> You can reach out to me on linkedin: www.linkedin.com/in/ricardo-duran-cuesta-42782a269 </p>
-<p> 📫 <a href= mailto: Ricardoaduran@outlook.com <\a> </p>
+  📫 <a href= mailto: "Ricardoaduran@outlook.com"> Ricardoaduran@outlook.com <\a>
 
 - 🔭 I’m currently working on:
   - Security + 
